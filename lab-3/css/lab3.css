@@ -15,4 +15,28 @@ html {
 #container {
 	width: 80%;
 	margin: 0 auto;
+	
+}
+.tabs div{
+	border: 1px solid gray;
+	padding: 0 1rem;
+	background-color:whitesmoke;
+	
+	margin: 0 auto;
+}
+div ul a{
+	
+			padding: 0.5em;
+			background: #ccc;
+			color: #000;
+			border-radius: 0.4em 0.4em 0 0;
+			border:1px solid grey;
+			text-align: center;
+			display: inline;
+			justify-content: center;
+			justify-content: space-evenly;
+			
+}
+#tabpanel1 #tabpanel2 #tabpanel3{
+	word-spacing: 10rem;
 }
